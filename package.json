@@ -1,0 +1,33 @@
+{
+  "name": "tweet-id",
+  "version": "1.0.0",
+  "description": "Get id of any tweet by url ! with extensive validation on the URL structure ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiraj-ku/Twitter-id-package.git"
+  },
+  "keywords": [
+    "tweet",
+    "twitter",
+    "id",
+    "tweet",
+    "url",
+    "get",
+    "status",
+    "id"
+  ],
+  "author": {
+    "name": "Abhishek Kumar",
+    "linkedin": "www.linkedin.com/in/abhishek-ko"
+  },
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/abhiraj-ku/Twitter-id-package/issues"
+  },
+  "homepage": "https://github.com/abhiraj-ku/Twitter-id-package"
+}
