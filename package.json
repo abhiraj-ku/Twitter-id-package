@@ -1,6 +1,6 @@
 {
   "name": "tweet-id",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Get id of any tweet by url ! with extensive validation on the URL structure ",
   "main": "index.js",
   "scripts": {
