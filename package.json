@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "script": "npm index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhiraj-ku/Twitter-id-package.git"
+    "url": "https://github.com/abhiraj-ku/Twitter-id-package.git"
   },
   "keywords": [
     "tweet",
@@ -21,10 +21,7 @@
     "status",
     "id"
   ],
-  "author": {
-    "name": "Abhishek Kumar",
-    "linkedin": "www.linkedin.com/in/abhishek-ko"
-  },
+  "author": "Abhishek Kumar",
   "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/abhiraj-ku/Twitter-id-package/issues"
